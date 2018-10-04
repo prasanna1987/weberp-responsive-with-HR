@@ -3,3 +3,4 @@ Additional information about weberp project is available at http://www.weberp.or
 Username demo 
 Password password 
 For any queries contact us at sales@netelity.com We may not be checking Issues section very regularly. We may not be checking Issues section very regularly.
+Enjoy
